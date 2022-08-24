@@ -1,0 +1,486 @@
+Average,A central value representative of a data set (see arithmetic mean).
+floor division,A division operation that rounds the result to an integer. The floor division operator is written as //.
+Base Station (BS),A station that mobile devices connect to.
+evaluate,"When an expression is evaluated, the result is the object that the expression represents."
+data items,"Data items are represented by and manipulated with programs or code. In Python, all data items are objects."
+expression (basic),Basic expressions are not constructed from other expressions. Variables and literals are basic expressions. 
+ASCII,A standard for encoding character data.
+bit error,A bit in a data stream that has been altered due to noise.
+De Morgans laws,A pair of laws that show the equivalence of logic expressions. 
+double,A float format that typically uses 8 bytes. 
+clock cycle,The interval between regular electrical pulses that synchronizes events within a computer. The processor clock cycle determines the speed at which instructions are executed.
+control bus,An electrical pathway that carries symbolic data representing control instructions and control signals between parts of a computer system. 
+remainder,"The remainder of two numbers x and y (written x % y and read ""x modulo y"") is the rest after dividing x by y using floor division, i.e. what remains after trying to 'fit' y as many times as possible into x. If the remainder is zero, then x is a multiple of y."
+encoding,The process of converting data into a format required for processing. 
+float,"A number that contains a decimal point. 3.3, 2.111191919, 0.0000001, etc. Typically a float is stored in 4 bytes. "
+full-adder,"A logic gate circuit that adds three one-bit binary numbers and outputs two one-bit binary numbers, a sum and a carry."
+half-adder,"A logic circuit that adds two single binary digits A and B. It has two outputs, sum (S) and carry (C)."
+IEEE 754,A standard for representing floating point values. 
+inverter,A NOT logic gate. 
+logic circuit,A digital circuit formed of logic gates. 
+logic expression,An expression using binary values or variables and operators that can be evaluated to give a value of 1 (True) or 0 (False).
+logic gate,A physical or abstract device that implements a logic operation. 
+testing,The process of checking that the program works as expected by running it with particular inputs and comparing the actual outputs to the expected ones.
+Complementary Metal Oxide Semiconductor (CMOS),"A type of transistor. As CMOS is a very commonly used in making active pixel sensor, sometimes CMOS is referred as an image sensor."
+Coriolis vibratory gyroscope (CVG),A type of microelectromechanical gyroscope.
+logic operation,"An operation that takes one or more binary input values to produce an output that is also binary value, i.e. a value of 1 (True) or 0 (False). NOT, AND and OR are all examples of logic operations. "
+noise,A random fluctuation in an electrical or mechanical signal. 
+Digital Signal Processor (DSP),A specialised processor unit that process digital signals effectively.
+precision,"The refinement in a measurement, calculation, or specification, especially as represented by the number of digits given."
+overflow,The condition that occurs when the result of a calculation is greater in magnitude than the computer can store. 
+Femtocell,"A small, low-power cellular network base station."
+comparison operator,"An operator used in a Boolean expression that compares two numbers. The comparison operators are > (greater than), < (less than), >= (greater than or equal to), <= (less than or equal to), == (equal to) and != (not equal to)."
+sign-magnitude,A way of representing signed integer data in a computer. 
+compiler,"A computer program that takes as input one or more files containing the text of another computer program (known as the source code), checks the text for errors, and translates the whole text into another programming language (see object code) before the program is executed. Usually a compiler translates a high-level language into a low-level language. See source code and object code. Contrast compiler with interpreter. "
+string,"A sequence of characters enclosed in single quote marks, e.g. 'Hello!'. To editor: The quote marks must be straight, i.e. not 'and '."
+Flash memory,A type of non-volatile memory of which its contents can be erased and rewritten.
+Boolean operator,"An operator that takes one or two true/false values and produces another one. The Boolean operators are and (conjunction), or (disjunction) and not (negation)."
+Gyroscope,A device that measures rotation.
+standard,An established norm or requirement regarding a data format or technical system. 
+Inertia,The resistance of a mass to change its state of motion.
+truth table,"A table of binary values in which the columns represent the input values, the intermediate and result values of logic operations. The rows represent the combination of input values and the corresponding intermediate and output values. Used to show the output of logic operations and logic expressions for all possible combinations of input values. "
+Indium Tin Oxide (ITO),A transparent conductive material.
+symbol,"A distinguishable notation or figure conventionally or arbitrarily accepted as representing some quantity, process, instruction, value, relationship or operation. "
+abstract,A brief summary at the start of a paper summarising the content. 
+control signal,A pulse of electricity that is used to control the movement of data or instructions in a processor.
+Micro-Electro-Mechanical Sensors (MEMS),A miniature electro-mechanical system that can fit on a silicon chip. It is commonly used in making accelerometers and gyroscopes in electronic devices.
+Acceptable Use Policy (AUP),A document that lays out the activities that the provider considers to be an improper or illegal use of their services. (Also see Cloud Service Agreement (CSA).
+transistor,A semiconductor device used to amplify or switch electronic signals and electrical power.
+control unit,A part of the processor that is responsible for the overall control of the processor.
+Personal area network,A short-range communication network for portable devices such as mobile phones and computers.
+application layer,The layer of a cloud architecture that includes applications and data. 
+data bus,"An electrical pathway that carries symbolic representations of data between parts of a computer system, usually between the processor, memory and input/output ports. "
+bibliographic citation,"A reference to the source of information used in a piece of work, but not directly cited in the text. "
+Photodiode,An electronic component that allows current to flow through in one direction when lights shine on it.
+two's complement,A way of representing signed integers in a computer. 
+data register,A register that holds data before and after it is processed.
+BYOD,"Bring your own device. A reference to a working practice where employees are expected to use their own phone, tablet or laptop for work purposes. "
+Phubbing,The practice of ignoring one's companion or companions in order to pay attention to one's phone or other mobile device.
+Pixel sensor,A tiny sensor that measures the amount of light incident on it. 
+Cloud computing,"A system where users access a virtual machine that sits on a remote server, and the data and information the user exchanges with the server is delivered via Internet connections, rather than specific networks. "
+Cloud Service Agreement (CSA),A document that lays out the relationship between a cloud user and a cloud provider. It often includes an Acceptable Use Policy (AUP) and a Service Level Agreement (SLA). 
+Point-to-point communication,A method that allows two devices communicate directly without going through a third party.
+underflow,The condition that occurs when the result of a calculation is a smaller in magnitude than the computer can actually store in memory. 
+device driver,A program that controls hardware. Typically a device driver contains code to implement the protocols and standards for specific hardware. They allow high-level programs to control hardware by using the functionality offered by the device driver. 
+community cloud,A cloud that is for the exclusive use by a specific community of consumers from organisations that have shared concerns. 
+Range,A way of quantifying the spread of the values in a data set.
+unicode,"An international encoding standard for use with different languages and scripts, by which each letter, digit, or symbol is assigned a unique numeric value."
+expansion bus,An electrical pathway that moves information between the internal hardware of a computer system (including the processor and RAM) and peripheral devices. 
+unsigned integer,An integer that is greater than or equal to 0. 
+fetch-decode-execute cycle,"The algorithm that is followed by the processor in order to process an instruction.It is central to the operation of all computers. First get the next instruction, then decide what type of instruction it is and so what data the instruction needs to have available, then execute the instruction. "
+Containers-as-a-service (CaaS),A cloud service based on container technology.
+Resolution,A measure of how many pixels can be recorded by an image sensor. 
+floating point unit (FPU),"The part of the processor that performs arithmetic and logic operations on floating point numbers, floating point numbers can be thought of as those containing a decimal point. "
+continuous delivery,"A software engineering approach in which teams update software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently. "
+Smart phone,A mobile phone that runs an operating system and allows you to extend the mobile phone's functionality by installing applications.
+UTF-8,A standard encoding system for text. 
+data centre,"A large group of networked computer servers typically used by organisations for the remote storage, processing, or distribution of large amounts of data."
+invoke,See call.
+Software development kit (SDK),A set of software libraries released by a manufacturer or software provider to enable third party developers to access the internal functions of their products. 
+algorithm,"Introduced in TM111 Block 2 Part 2 Section4 where it was defined as ""A sequence of structured, unambiguous, step-by-step instructions"". Then developed further in TM111 Block 2 Part 6 where it is discussed outside the context of programming."
+graphic processing unit (GPU),"A?specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images,intended for output to a display. "
+Docker,"A software containerisation platform. See container, CaaS. "
+assignment,A statement of the form x = e where x is a variable and e is an expression. The effect of the statement is to calculate the value of the expression and to make the name x refer to it. 
+code,Statements in a computer language that implement an algorithm.
+downtime,The time during which cloud services are not available. 
+Subscriber Identity Module (SIM),"Stores identification information for the mobile service provider and user, an authentication key for authentication and encryption, and other operational data."
+comment,"Text, aimed at a human reader, saying what some code does. Ignored when the code is executed. In Python, a comment is a line of text that starts with the # symbol. It is ignored by the Python interpreter."
+element,"A value in a list, selected by an index."
+edge computing,A cloud technology that puts the data and some of its computation closer to the end-user. (Also called fog computing). 
+graphical user interface (GUI),"An interface based on graphical representations of objects in a computer system, which are manipulated using pointing and gesture-based devices."
+fog computing,A cloud technology that puts the data and some of its computation closer to the end-user. (Also called edge computing). 
+green computing,The environmentally responsible and eco-friendly use of computers and their resources.
+System-on-a-chip,A microchip that contains the main components of a computer system.
+Text-walking,The practice of texting (or being otherwise distracted by a mobile phone) whilst walking.
+conditional statement,"A statement where some code only gets executed under certain circumstances, determined by a boolean condition."
+hybrid cloud,"A cloud that is a composition of two or more distinct cloud types (private cloud,community cloud, or public cloud). "
+Infrastructure as a Service (IaaS),"A cloud service that provides off-site server, storage and networking hardware. See also infrastructure layer. "
+construct,See programming construct.
+System-in-a-package,A microchip that contains all the components of a computer system.
+infrastructure layer,"The physical layer of a cloud architecture consisting of the hardware, such as servers, networking hardware and storage. "
+microkernel,The near-minimum amount of software that can provide the mechanisms needed to implement an operating system. 
+decomposing,Dividing a problem into smaller steps to help with the solution. We can decompose into sub-problems and/or algorithm steps.
+Argument (of a function),"An argument arg is an expression that can be combined with a function name fun to construct a new expression fun(arg). This new expression can be used to call the function fun(). When a function is called, the parameters of the function are initialised with its arguments. "
+haptic device,A device that the user interacts with through the sense of touch. 
+multi-tenancy,An architecture in which a single server serves multiple customers.
+for,A keyword introducing a loop in Python.
+hexadecimal,(Or hex) a base-16 number system. 
+Platform as a Service (PaaS),A cloud service that provides a platform on which applications can be developed and run. See also platform layer. 
+high-level programming language,"A programming language in which a programmer writes statements that are translated into a complex series of machine code instructions. The statements are usually thought of as being closer to a human language, or the language of the problem being solved, than the language of the machine. (see also low-level programming language)"
+iteration,When a piece of code gets executed several times.
+hypervisor,A program that allows multiple operating systems to share a single hardware host.
+instruction set,The set of instructions that a family of processors can execute. 
+platform layer (or middleware),The layer of a cloud architecture that provides an interface between the applications and the hardware. See also PaaS.
+Body (of a function),The body of a function follows the function header.It is indented (with four spaces). The body contains the statements that are executed when the function is called. It can also contain comments and a docstring (as the first statement). 
+if,Keyword used to program a conditional statement.
+index,An integer used to select a value from a list.
+interpreter,A computer program that takes as input one or more files containing the text of another computer program (known as the source code). It translates the program statements into another programming language (usually from high-level to low-level) only when required during the execution of the program. 
+low-level programming language,"A programming language that uses symbolic representations of instructions, data and addresses that are close to the machine language of the processor on which it will execute. See assembler. (See also high-level programming language) "
+machine code,See machine language.
+Power Usage Effectiveness (PUE),The ratio of the total amount of energy used by a computer data centre facility to the energy delivered to computing equipment. 
+Built-in Python functions,The are functions for which the Python interpreter knows how to handle them. They are available without the programmer having to add any additional code to their program.
+list,A data structure consisting of a sequence of values.
+machine language,"A very low level, symbolic, representation of instructions at the level of the instruction set of a processor. Usually using a binary numeric representation. "
+private cloud,Cloud computing services that are private to a particular group of users. 
+loop,Where some code is executed a number of times.
+main memory,The volatile memory where data and instructions are held immediately before they are transferred into the processor. 
+memory address,The numeric value that signifies a specific location in memory at which data can be stored and retrieved. 
+public cloud,"Cloud computing services that are made available to the public (this is commonly what is meant by ""the cloud"". (Compare with private cloud, hybrid cloud and community cloud). "
+call (of a function),"A function call results in the function's parameters being initialised with the function's arguments and the statements in the body of the function being executed. Suppose a function is named fun and it has n arguments arg_1, ?, arg_n. Then, this function can be called in a program or on the Python shell with a statement of the form fun(arg_1,  ? , arg_n). If the function has no arguments, it can be called using fun()."
+microchip,"(Sometimes just called a ""chip"") a unit of packaged computer circuitry that is manufactured from a material such as silicon at a very small scale."
+redundancy,(As applied to computing) a situation in which duplicate equipment is provided to take over in case of failure occurring. 
+container,(As applied to computing) a cloud technology where the virtualisation happens within the operating system itself; a container is a portable module in which software can be run.
+mnemonics,"Generally an easily remembered alternative to a complex phrase or list (e.g. The initial letters of ""?Richard Of York Gave Battle In Vain' as a reminder of the colours of the rainbow in order Red, Orange, Yellow, Green, Blue, Indigo, Violet). In assembly language they are easily remembered names that stand for the binary values of instructions (ADD, SUB, MUL, MOV ""? add, subtract, multiply, move)."
+motherboard,"A printed circuit board containing the principal components of a computer or other device, with connectors for other circuit boards to be slotted into. "
+multi-core processor,"A single chip that contains two or more independent processors (called ""cores""). "
+object code,"Output from a compiler, usually in machine language, that is ultimately executed by a processor "
+review paper,"(Sometimes also referred to as a survey paper). A paper that doesn't present new information but summarises multiple primary research papers to give a sense of the consensus, debates, and unanswered questions within a field at a snapshot in time. "
+programming construct,A way of structuring code that a programming language recognises as having a particular meaning.
+bootstrapping,"A self-starting process that is supposed to proceed without external input.In computing examples are using an initialisation program to configure a computer, immediately after it is switched on, and then to go on to load a larger program (usually an operating system), or writing a compiler in the source programming language that it intends to compile."
+object program,See object code . 
+operating system,Software that manages computer hardware and software resources and provides common services for computer programs. 
+service-level agreement (SLA),A formal description of the availability and performance a cloud user can expect from a cloud service. See also Cloud Service Agreement (CSA) and Acceptable Use Policy (AUP). 
+overclocking,"The action of increasing a processor's clock rate, running it at a higher speed than it was designed to run. "
+variables-as-labels metaphor,In the variables-as-labels metaphor a variable is compared to a label or luggage tag. Those labels or tags can be attached to (and removed again from) objects.
+selection,Where some code is only carried out under certain circumstances.
+peripheral device,Any auxiliary device such as a computer mouse or keyboard that connects to and works with the computer in some way. 
+Software as a service (SaaS),A cloud service where an application hosted on a remote server can be accessed over the Internet. 
+syntax,Rules specifying the structure of a language.
+peripheral component interconnect (PCI),"A specialised high-speed bus to connect performance-critical devices, such as video devices and networking cards."
+survey paper,"(Sometimes also referred to as a review paper). A paper that doesn't present new information but summarises multiple primary research papers to give a sense of the consensus, debates, and unanswered questions within a field at a snapshot in time. "
+persistent memory,Memory that allows data to be accessed even after the process that created it has ended. 
+unikernel technology,A technology that packages the essentials of an operating system needed to run an application within a container. 
+pipelining,A form of processing instructions in which successive steps of an instruction sequence are executed in such a way that another instruction can be begun before the previous one is finished. 
+sequence,A series of actions carried out on after another.
+port,An interface between the computer and other computers or peripheral devices. 
+uptime,The time during which cloud services are available.
+processor,"(Also see central processing unit, CPU) the core of the computer system that interprets and executes instructions, performs arithmetic and logic, and controls input, output and storage access. "
+utility computing,"A service provisioning model in which a service provider makes computing resources and infrastructure management available to the customer as needed, via a terminal, and charges them for specific usage rather than a flat rate. "
+variable,A name associated with a value.
+processor clock,A circuit inside the processor that produces regular electrical pulses that are used to synchronize bus and control unit activities within the computer system. 
+read-only memory (ROM),"A type of memory that permanently holds data even when it is not receiving power (persistent memory). The data contained in ROM cannot be updated or deleted, it is only readable. ROM is also directly accessible (see random-access memory) "
+Water Usage Effectiveness (WUE),The ratio of total amount of water (in litres)used by a computer data center facility to the energy delivered to computing equipment (in kWh). 
+program counter (PC),"A register in the processor in which the memory address of the next instruction to be executed is placed. Changing the value in the program counter allows the flow of execution of a program to be altered by the program itself, this allows conditional jumping (branching) during the programs execution. "
+accumulator,A register within a processor that is used to store and manipulate data. 
+address bus,An electrical pathway that carries a symbolic representation of a memory address between the memory and the processor. 
+RAM,See random-access memory.
+random-access memory (RAM),"A type of memory that holds data only while it receives power, when power is removed the content of the memory is lost. The term random-access signifies that direct access to any location in memory is possible, as opposed to serially addressable memory. That is, it takes the same amount of time to access data held in any location in memory. "
+address register,A register that holds the address in memory from which data is to be fetched or sent to be stored.
+arithmetic and logic unit (ALU),The part of the processor containing the circuits where the basic operations of arithmetic and logic manipulations are performed. 
+register,"A small amount of very fast memory within the processor used for a special purpose, or as storage during instruction execution.The number and type of registers depends on the processor family. "
+Reduced Instruction Set Computing (RISC),"A system in which the processor can execute a relatively small number of distinct fundamental, highly optimised instructions, each consisting of a single operation. "
+secondary memory,"The part of a computer system in which programs, when not being executed, and data,when not being processed, are stored. Usually we think of hard disk drives as secondary storage, but frequently network storage devices and other data storage devices such as memory sticks are replacing hard disk drives in the role of secondary storage devices. "
+source code,"Text representing a program that is usually input into a compiler or interpreter. Source code is usually written in a high level language, but can be written in a low-level language or assembly language. "
+assembler,"A program that translates assembly language instructions into machine code (sometimes used to refer to the assembly language rather than the program, as in assembler code). "
+source program,See source code.
+virtual machine (VM),"A software computer that, like a physical computer, runs an operating system and applications."
+status register,A register that holds information about the result of executing arithmetic or logical operations.
+assembly language,"A low level computer language consisting of symbolic instructions and addresses that translate directly, symbol for symbol, into machine code. "
+thread,"A task that is split up into independent subtasks, each of which is completed in parallel by a single processor and then, if necessary reassembled into a final solution. "
+threading,An arrangement whereby multiple threads can execute in parallel either by a single processor or by the individual processors within a multi-core processor.
+boot program,A program that is automatically executed when the computer is first switched on. 
+translator,A computer program that performs the translation of a program written in a given programming language into a functionally equivalent program in another computer language. 
+volatile memory,Computer storage that only maintains its data while the device is powered. Most RAM (random access memory) used for primary storage in personal computers is volatile memory. 
+append,"The operation of adding an item to the end of a list, written as a_list + [an_item]. "
+bottleneck,A point where data and instructions get backed up in their journey to and from the processor because of the difference in speed between the processor and main memory. One way of avoiding bottlenecks is by using cache memory. 
+Turing machine,"An abstract machine that can carry out computations. In particular, the universal Turing Machine is said to have the property of Turing completeness - that is, it can accomplish any task that it is possible for a computer to do. More precisely, the universal Turing machine can simulate any other Turing machine. "
+counting problem,"A type of problem requiring the counting of all or some items in a list, e.g. counting all numbers that satisfy a particular property. Counting problems are a particular kind of aggregation problems. "
+bus,"An electrical pathway connecting parts of a computer system to allow data/instructions to flow from one part of the system to another.See also address bus, data bus, control bus, expansion bus and universal serial bus. "
+universal serial bus (USB),"A standard for connecting computers and peripherals, allowing them to communicate. "
+bytecode,The instruction set of a virtual machine (VM). 
+virtualisation,Any configuration where a computer system is emulated using a virtual machine. 
+aggregation problem,"A type of problem that involves computing a new value from all or part of the values in a list, e.g. summing all the numbers that are not negative. Aggregation problems are a generalisation of counting problems. "
+cache memory,"High speed memory acting as a buffer between high speed and low speed parts of a computer system.For example, processor cache memory enables the fast processor to access data faster than it can access the slower main memory. "
+word,A unit of data used by a particular processor design. A word is a fixed-sized piece of data handled as a unit by the instruction set or the hardware of the processor. 
+numeric expression,"An expression that, when evaluated, results in an integer or floating-point number. "
+retrieval problem,"A type of problem that involves finding a particular value in a list, e.g. the largest number. "
+central processing unit (processor),"The core of the computer system that interprets and executes instructions, performs arithmetic and logic, and controls input, output and storage access. "
+assignment operator,"The character =, which separates the variable from the expression in an assignment. "
+search problem,The same as retrieval problem. 
+integer,"A whole number, e.g. -5, 0, or 123. "
+Accelerometer, A device that measures acceleration. It is commonly used in mobile phones for sensing motion. 
+Complex Instruction Set Computing (CISC),"A system in which the processor can execute many more distinct instructions than in RISC computing, with each potentially consisting of many operations. "
+floating-point number,"A number with a decimal point, e.g. -1.2, 0.5, or 12.3. "
+Boolean expression,An expression that has the value True or False. 
+Active Pixel Sensor (APS),"A type of image sensor. It is usually made using the complementary metal oxide semiconductor (CMOS) hence is also known as CMOS image sensor."
+Android Open Source Project (AOSP),An open source project that develop the Android operation system. 
+numeric operator,"An operator that takes (usually) two numbers and produces another number. Some of Python's numeric operators are:  (subtraction), + (addition), * (multiplication), / (division: always produces a floating-point number), // (floor division: always produces an integer) and % (remainder). "
+Arithmetic mean,An average that is found by summing the data values in a data set and dividing by the number of values. 
+Aspect ratio,"The ratio of the width to the height of an image sensor, image or screen. "
+definition (of a function),A function definition specifies what happens when a function is called. It consists of a header and a body.
+docstrings (documentation strings),A docstring briefly describes what a function does. The description is enclosed by triple quotes and should immediately follow the header of the function.
+expression,"Expressions represent data items, also known as objects in Python. Expressions come in two varieties: basic and constructed. "
+expression (constructed),"Constructed expressions are expression that can be constructed from other expressions. Lists, expressions formed with the arithmetic operators (*, +, -, /) and function expressions are examples of constructed expressions. "
+formal argument,"A function header can have zero or more formal arguments. If a function header has n formal arguments, as in: def fun(formal_arg_1, ""? , formal_arg_n): then when the function is called with the arguments arg_1, ""? , arg_n, each of the arguments is assigned to the corresponding formal argument:  formal_arg_1 = arg_1 formal_arg_2 = arg_2 and so on."
+function,A function consists of two parts: its interface and its implementation. Functions are bits of code that have been packaged for re-use. 
+header,"The header of a function consists of the keyword def, the name of the function, between brackets, zero or more parameters, also known as formal arguments, and a colon."
+id,"In Python, each object has an id (short for identifier). The id is a unique number associated with the object. You can get Python to show you the id of an object with the function id()."
+implementation,"The implementation of a function determines what goes on when a function is called. For instance, a function definition can specify the implementation of a function."
+interface,"The interface of a function consists of: the name of the function,what kind of argument(s) it needs,what it gives back as a return value, and what other effects calling the function has. The interface of a function is given by its header and the docstring of the function."
+literals,"A literal is a basic expression that always stands for the very same object. For instance, the integer literal 2 always represents the integer 2 and the string literal 'hello' represents the five-character string hello. In this respect, literals differ from variables. Variables can represent different objects at different times."
+Objects,"In Python, data items are objects. In Python, each object consists of three components: its id, its type, and its value."
+name (of a function),"A function has a unique name. When we talk about a function we use its name, e.g. len, followed by a pair of brackets: len()."
+parameter,A value specifying how an operation is carried out (Block 3 Part 1).
+return value,"The return value of a function named fun with arguments arg_1, ""? , arg_n , is the object that the expression fun(arg_1, ""? , arg_n) evaluates to. If the return value is the object None, we sometimes say that the function has no return value."
+test-driven development,Test-driven development is the good practice to write tests before writing the actual code.
+nanotechnology,The branch of technology that deals with the manipulation of individual atoms and molecules.
+near field communication (NFC),A communication standard for very short range of communications. It is the technology used in contactless payment cards. 
+type,"In Python, each object has a type. Float, string, integer and list are examples of types. We can also get Python to tell us the type of an object using type()."
+value (of an expression),"The value of an expression is the object that the expression represents. For instance, after num = 5 is executed, the expression num has the value 5. We also say that num evaluates to the value 5."
+value (of an object),"The value of an object is a component of that object along with its id and its type. For instance, the integer object 5, has the value 5. List objects are containers. Their value consists of zero or more references to other objects. "
+variables-as-blank-spaces-on-a-form metaphor,"In the variables-as-blank-spaces-on-a-form metaphor, variables are thought of as locations where one can store objects. A variable is compared to the blank spaces on a form."
+Age standardised,Adjusted to take into account the fact that different groups of people have different age profiles.
+Comma-separated values (csv),"A way of storing data, in which commas are used to separate items in a dataset from one another."
+Correlation coefficient,A number that summarises how strongly two datasets are related.
+Dispersion,How spread out the values in a dataset are. Low dispersion means most of the data are clustered close to the centre. High dispersion means the values are spaced more widely.
+Heuristic,A method that may help discover the solution to a problem.
+Interquartile range,Difference between upper and lower quartile. Used as a measure of dispersion.
+Mean,An average calculated by dividing the total of a dataset by the number of values in the set.
+Lexicographic order,An order similar to the order used in a dictionary.
+Measure of central tendency,"An average; a number summarising a dataset as a single ""typical"" value that represents them all."
+Median,The middle value of a set of data when arranged in order.
+Quartile,"When a dataset is arranged in order, the value below which a quarter of the data lie is the lower quartile. The value above which a quarter of the data lie is the upper quartile."
+Separator,"A character, such as a comma or space, used to separate items in a dataset from one another."
+Skew,"A dataset is skewed if it has an asymmetric ""tail"" that stretches to the right or left."
+Standard deviation,"A number that measures the dispersion of a dataset, in other words how widely spread it is."
+almanac data,"tells the receiver roughly where each satellite in a GPS location is likely to be in the sky, and which ones are likely to be in sight."
+Application Program Interface (API),"a set of routines, protocols, and tools for building software applications"
+Automatic identification system (AIS),An identification system used to uniquely identify marine traffic.
+Beacon,a Bluetooth transmitter that broadcasts a unique identifier that associates the beacon with a physical or contextual location.
+Black box,"A device process, or system, whose inputs and outputs (and the relationships between them) are known, but whose internal structure or working is not considered."
+Bluetooth,"A standard for the short-range wireless interconnection of mobile phones, computers, and other electronic devices."
+Cell ID,A unique number used to identify a base station within a particular LAC grouping.
+Cell Tower Localisation,the determination of a device's location based on its proximity to mobile phone network cell towers.
+Classification schemes / taxonomies,a system for categorising related items according to various attributes or characteristics
+De facto standard,"A standard that is widely adopted as a common practice, rather than out of a forced requirement, such as leglisation."
+ephemeris data,the positions of naturally occurring astronomical objects as well as artificial satellites in the sky at a given time or times (from Wikipedia)
+Fully connected device,A device permanently connected to the internet that is able to access services it requires on-demand and respond to requests from services it is associated with.
+Geocoding/reverse geocoding,"looking up the geolocation from an address, point of interest or other identifier (geocoding) or the address/point of interest from a geolocation."
+Geocoding service/ geocoder,A service that allows online mapping systems to take an address and resolve it to a latitude and longitude that be used to plot the location on a map.
+Geofence,a notional (virtual) geographical boundary that can be used to define an area within which particular services may be offered (or withheld).
+Geofencing,The process of creating a geofence
+Geolocating,"a physical, geographical location, typically referenced using the latitude/longitude system of co-ordinates. By geolocating a device, we determine its geolocation."
+geolocation,a location identity that is geographically-based according to a known co-ordinate system
+geotagging,"associating geolocation data with a device or object, often by associating the location co-ordinates with a device or object ID in a centralised database."
+Global Positioning System (GPS),line-of-sight satellite based system for determining outdoor location anywhere in the world.
+Latitude/longitude,A co-ordinate system use to specify location at any point on the Earth's surface.
+Iine of sight,"In a communication system, identifies a mode of propagation where a transmitter and receiver must be able to see each other directly with no intervening obstacles blocking the straight line view between them."
+Localisation,A process of determining location. See also: geolocating
+Location Area Code (LAC),Code number used to identify a grouped set of mobile phone network base station transmitters within a particular geographical area. 
+Location based computing,A style of computing that is used to support the delivery of location based services
+Location based services,services that provide information relevant to the location of the user or something of interest to the user
+MAC Address (media access control address),"a unique (often hardware) address associated with a physical, networked device."
+Mobile Country Code (MCC),Code used to identify the geographical country a mobile phone cell tower is located in.
+Mobile Network Code (MNC),Code used in association with an MCC to identify the provider of a mobile phone service.
+Reverse geo-coding,the process of identifying a location in human terms from a geolocation
+Triangulation/trilateration,a technique for identifying the location of a point using its relative location to three other points of known location.
+wearables,smart electronic devices (electronic device with microcontrollers) that can be worn on the body as implant or accessories
+Wireless Access Point / Wireless Router,a physical device that provides connection to a network via Wifi.
+Adware,Malware designed to download and display unwanted advertising material. Adware may be used to advertise illegal services or counterfeit goods. The term adware is also used for legitimate advertising presented by websites. 
+Air gap,"A protective measure employed on computer systems in which there are no connections between computers in a secure part of the network and those on an insecure network. Data cannot pass between the two networks ensuring the secure network is protected from malware and external attacks. Computers on the secure network may have their network equipment removed, and their removable drives and USB ports sealed.  "
+Authentication,The process of supplying information that permits a user to use a computer system. This is usually performed using a password or fingerprint. 
+Authorisation,The process of comparing information (e.g. a password) with a stored value to confirm a user can use a computer system. 
+Availability,"A cybersecurity concept that data should be available whenever it is needed. As an example, denial of service attacks affect availability. "
+Brute force attack,A method of attacking computer security by testing every possible value for a password or key in turn. 
+Botnet (zombie army),A large group of computers (zombies) that have been compromised by malware and have been instructed to perform tasks such as perform a denial of service attack on a target. 
+CIA,"An acronym for the cybersecurity concepts of confidentiality, integrity and availability."
+Click fraud,"A type of fraud either targeting companies whose advertising costs are based on the number of people who click on an advert; or increasing the apparent popularity of a site. Click fraud creates spurious clicks which can increase advertising costs for a company, or to boost the popularity of a site in search rankings. "
+Command and control server,A central computer responsible for coordinating the actions of a botnet. 
+Countermeasure,"Actions, measures or technologies which can be used to prevent or reduce the impact of a cyber security incident. Examples of countermeasures include strong passwords, encryption and antivirus programs. "
+Denial of Service Attack (DoS),A type of cybersecurity attack performed with the intention of denying legitimate users access to a computer system. This is often performed by flooding the system's network or connection to the internet with spurious traffic. 
+Distributed Denial of Service Attack (dDoS),A form of denial of service attack where the attackers are geographically dispersed. Botnets are commonly used to organise dDoS attacks. 
+Exploit,Taking advantage of a bug or weakness in a computer to gain access to the system. 
+Hacker,A skilled computer expert who can break into computer systems and networks. The term has increasingly developed negative connotations of being someone who wishes to cause harm. 
+Hijacker,Malware which modifies a browser's settings without user permission. Hijackers commonly replace the user's home page or default search engine with one belong to its creators. Hijackers commonly carry other malware including keyloggers. 
+Human factors,Behaviours of computer users that can be exploited by attackers to compromise computer security. 
+Identification,Providing a user ID to a computer system. 
+Information assets,"Any valuable data stored on a computer system. In some contexts, the computer hardware itself may also be considered as an asset. "
+Integrity,A cybersecurity concept that data must not be changed without authorisation. 
+Keylogger (program),"A malicious program, often included in larger pieces of malware which monitors key presses on a user's computer and either stores them for later retrieval by an attacker, or transmits them over the internet. Keyloggers may record all key presses, or they can be programmed to only retain certain data such as credit card numbers. "
+Malware,A contraction of malicious software. Any software designed to disrupt the functioning of a computer or cause harm to data. 
+One-time password,A computer password which is only valid for one login on a computer system. A common use for one-time passwords is giving users temporary access to a system so they can change their password. 
+Persistent threat (advanced persistent threat),Any attacks on a computer system which monitor or steal information over an extended period of time. 
+Phishing,Methods of attempting to obtain personal or sensitive information from a user by pretending to be a trustworthy party. Spam emails often attempt to phish data by appearing to come from companies such as banks or friends of the user. 
+Polymorphism (metamorphism),"Malware which changes its programming, but retains the same functionality, when it is copied from computer to computer. Polymorphism helps malware avoid signature-based antivirus programs. "
+Programmable Logic Controllers (PLC),"Computers designed to automate processes where reliability is especially important, such as industrial assembly lines or the distribution of essential services such as water or energy. "
+Rootkit,"Malicious software designed to take control of a computer without the user's permission and which often hides its presence from the user, the operating system and from antivirus software. "
+Self-replicating program,Any program which outputs an identical copy of its code when it is executed. Worms are an example of self-replication.  
+Signature,A unique pattern of data on a disk or in computer memory created by the presence of malware which allows it to be identified and removed by antivirus software.
+Spear phishing,"A type of phishing targeting distinct individuals or small groups of users. Since spear phishing relies on personal information about users, it often follows a general phishing campaign or the theft of data during hacking. "
+Spyware,Malware which obtains information from users without their permission. 
+Social engineering,Techniques practiced by attackers to deceive users into divulging confidential information (such as user IDs or passwords) or giving access to a computer system. 
+Technical factors,Weaknesses (exploits) in a computer system which allow attackers to breach security. 
+Threat,Any cybersecurity risk to a system. 
+Trojan,A type of malware which hides its true purpose by appearing to be a legitimate application. 
+Two-factor authentication,"A method of controlling access to computers by requiring users to provide two separate forms of authentication, usually one is a password, the other is a piece of information held on the user, such as a hardware token or a message sent to their mobile phone. "
+Virus,A type of self-replicating malware which attaches itself to programs or data. 
+Vulnerability window,The time between a vulnerability being created (usually inadvertently) in a computer program or system and the time it is removed (usually by a bug fix). 
+Vulnerability,A weakness in a computer system that can be exploited by an attacker. 
+Worm,A type of self-replicating malware which spreads between computers using network connections. 
+Zero day, An undisclosed vulnerability in a computer system. 
+Zombie,A computer connected to a network which has been compromised by an attack and instructed to perform malicious tasks. Zombies are often members of botnets. 
+Top-level decomposition,"Top-level decomposition (also: initial decomposition): The breaking down of a problem into a set of sub-problems, the goal being to allow us to solve a problem by addressing a set of simplerproblems. "
+Certificate authority,A trusted third party responsible for issuing digital certificates after being satisfied that the holder of the certificate is genuine. 
+Ciphertext,Data rendered illegible by encryption which can be returned to plaintext by decryption. 
+Collision,An unwanted phenomenon in hashing where two different pieces of data produce the same hash value meaning that it is impossible to distinguish the two from their hashes alone. 
+Cryptography,A field of mathematics concerned with secure transmission of data. 
+Cryptocurrency,A form of currency which relies on strong encryption to secure transactions between users.
+De-facto standard (DES),"A standard way of operating which is not mandated by a formal standards document, but which has become the dominant method through market dominance. DES became a de facto standard because it was backed by the United States government and by IBM the largest computer company in the world when DES was introduced. "
+Decryption,The process of reverting ciphertext to plaintext using a decryption algorithm and a valid key. 
+Digital certificate,A method of distributing public keys that allow for guarantees of their authenticity. Certificates are issued by certificate authorities who validate the identity of the public key itself. 
+Digital Encryption Standard (DES),A symmetric encryption algorithm designed for the United States government and approved in 1977. DES uses 56-bit keys and is now considered obsolete. It has largely been replaced by Triple-DES and AES. 
+Digital signature,"A document (or hash of a document), encrypted using a private key and which can be decrypted by the associated public key to demonstrate its authenticity. "
+Distributed ledger,A permanent record of transactions which is distributed amongst all the users rather than being located on a single computer. A blockchain is an example of a distributed ledger. 
+Double-spend problem,The possibility that a cryptocurrency token can be spent more than once. A successful cryptocurrency must solve the double-spend problem. 
+Encryption,The process of transforming plaintext to ciphertext using an encryption algorithm and a valid key. 
+Hardware Security Module (HSM),"A specialised, highly-secure computer designed specifically for managing encryption keys, encrypting and decrypting data and hashing. Amongst other purposes, HSMs are used to safeguard passwords used to log in to computers. "
+Key,"A piece of information supplied as an input either to an encryption algorithm to transform plaintext into ciphertext, or to a decryption algorithm to transform ciphertext into plaintext. "
+Key bundle (Triple DES),A set of two or three DES keys used to perform encryption or decryption using the Triple DES algorithm. The key bundle is either 112 or 168-bits long. 
+Key chain,"A specialised form of database used to hold encryption keys. Key chains are found in individual applications, operating systems and in computer hardware. The key chain is itself encrypted to prevent keys being misused. "
+Key distribution problem,"A weakness of symmetric cryptography whereby senders and receivers must have identical copies of the encryption keys. This can only happen if they meet or use a trusted courier to send a key from one to the other, both of which may be impossible, dangerous or expensive. "
+Key length,The length of an encryption key expressed in bits.
+Key pair (asymmetric cryptography),"Two, related keys used for asymmetric cryptography known as the private key and the public key. "
+Key stretching,"A method of improving computer security, such as the process of validating a password, by increasing the time it takes to perform a task. Key stretching can be used to prevent brute force attacks against weak passwords. "
+Master secret,A short piece of data derived from the pre-master secret and data from a server computer engaged in a TLS/SSL communication.
+Mining (Bitcoin),The process of validating transactions in the Bitcoin network by finding valid hashes. 
+Nonce (Bitcoin),A random value added to a block of pending transactions in the Bitcoin before hashing.
+Plaintext,Legible data unprotected by encryption.
+Private key,One member of an asymmetric encryption key pair. The private key is retained by its creator and never distributed. The private key can only decrypt messages encrypted by the corresponding public key. Private keys are used to encrypt data for digital signatures. 
+Pre-master secret,A short piece of data used to generate symmetric keys which is created by the client computer engaged in a TLS/SSL communication.
+Proof-of-work,"A piece of data which is extremely time consuming to generate, but can be quickly verified. Proof-of-work can be used to prevent abuse of computer resources (such as slowing down the sending of email to deter spammers), or as a way of regulating resources (such as mining new Bitcoins)."
+Circuit (Tor),A temporary communications channel established between the sender and recipient of data using intermediate nodes in the Tor network. 
+Public key,"One member of an asymmetric encryption key pair. The public key is distributed to other users who wish to exchange encrypted messages with the key holder. The public key is most commonly used to encrypt plaintext, but are also used to decrypt digital signatures. "
+Revocation (encryption keys),"The process of removing public keys from use because the corresponding private key cannot be used (it may have been lost or stolen, or the user may simply be unable to remember how to use it). A revoked key cannot be considered secure. "
+RSA algorithm,"The first practical asymmetric encryption algorithm named after its creators Ron Rivest, Adi Shamir and Leonard Adleman. The RSA algorithm had previously been discovered by British cryptographers although its existence was kept secret. "
+Salt,A random value added to a password when it is first created. The combined password and salt are then hashed and the hash and the salt stored in a secure file. 
+Secure Socket Layer (SSL),A protocol for exchanging secure data between a client and server over an insecure network. SSL was widely adopted by web browsers which allowed for the development of e-commerce sites. SSL has been replaced by Transport Layer Security in most applications.
+Session key,A single-use symmetric encryption key used to encrypt and decrypt data during a single communication session.
+Strong encryption,Any type of cryptography which is resistant to attack by having no known weaknesses in its algorithms and which uses large keys to resist brute force attacks. 
+Symmetric cryptography,A subsection of cryptography where encryption and decryption are performed by the same key.
+Transport Layer Security (TLS),A protocol for exchanging secure data between a client and server over an insecure network. TLS has replaced Secure Socket Layer for most applications since it offers greater levels of security. 
+Triple DES (3DES),A stop-gap method of improving DES encryption against brute force attacks by encrypting data three times using a key bundle of either two or three DES keys.
+Trusted third party,A person or organisation who aids interactions between two other people or organisations who both trust the third party. Certificate authorities are an example of a trusted third party who authenticate the creators of digital certificates. 
+Backdoor,"A secret method of bypassing any form of computer authentication. In the context of computer encryption, a backdoor is either a second key that can perform decryption without the knowledge of the key holder, or a weakness in the cryptographic algorithm which allows plaintext to be recovered without using the original key or brute force.(See also golden key) "
+Clipper chip,"A microchip that implementing the Skipjack symmetric encryption system which formed part of a key escrow encryption proposed in the 1990s, but never adopted when weaknesses were found in the implementation. "
+Crypto wars,An unofficial term for the conflict between people and organisations seeking greater security through the widescale use of cryptography and demands of governments seeking to restrict cryptography to allow for criminal investigations and intelligence operations. 
+Deep packet inspection,"A collection of processes which examine the header and (more usually) the content of network packets to learn more about their contents, origin and destination. Depending on the result of deep packet inspection, packets may be allowed to continue to their destination, be blocked or be redirected. Deep packet inspection may be used to investigate network problems, as part of criminal investigations, identify malware or spam, for targeting adverts, or (as in the case of the Golden Shield) perform censorship. "
+Darknet,A computer network that does not use standard communications protocols (such as the Internet's TCP/IP). The Tor network is an example of a darknet. 
+Domain Name System (DNS),The hierarchical naming system for the Internet that allows domain names (e.g. open.ac.uk) to be translated into IP numbers by DNS servers. 
+Deanonymisation,"A process by which supposedly anonymous users can be identified from their network traffic, such as by identifying who they communicate with, their geographic location or the types of data they exchange. "
+DNS Server,Specialised internet servers responsible for translating hostnames (URLs) into IP numbers so that packets can be addressed to their destination. 
+Deep web,Any part of the world-wide web that is not indexed by search engines. 
+Edge Router,A specialised form of network router responsible for connecting a network to an external network.
+Directory node (Tor),Any computer on the Tor network maintaining a directory of other nodes currently connected to the network. Directory listings are most commonly used to establish new circuits across the Tor network 
+Filter bubble,A term invented by the internet activist Eli Pariser to describe an internet phenomenon where computers use past behaviour and preferences of users to provide them with personalised information skewed to their personal tastes and limiting their exposure to conflicting or uncomfortable information. 
+End-to-end encryption,Any form of communication where data is encrypted by the sender and recipient and cannot be read whilst in transit. 
+Routing table,Rules held by a network router used to forward data packets towards their destination. 
+Exit node (Tor),The final node in a Tor circuit where data leaves the Tor network and enters the conventional Internet.
+Family key (Clipper),A symmetric key shared amongst all Clipper-equipped devices which is used to encrypt a LEAF containing a session key which has previously been equipped by a unit key.
+Golden key,"A hypothetical ""?backdoor' into encrypted data that would be reserved for government usage as part of criminal investigations. "
+Guard node (Tor),The first node in a Tor circuit where data enters the Tor network. 
+Hidden service,An online service which can only be reached using the Tor network. 
+Key escrow,"An arrangement, usually mandated by law or company policy, where copies of decryption keys are deposited with a trusted third party that allows them to be used to recover plaintext without the permission of the key holder. The Clipper Chip was an example of a key escrow system."
+Law-Enforcement Access Field LEAF (Clipper),A piece of ciphertext generated by the Clipper encryption system containing an encrypted session key. The LEAF was intended to only be used by law-enforcement agencies as part of their investigations. 
+Data Protection Officer (DPO),"An employee of an organisation storing personal data who is required to ensure that organisation's processing activities comply with the relevant data protection laws. The Data Protection Act 1998 encourages the creation of this role, but does not require it; GDPR requires any organisation employing more than 250 people to employ at least one DPO."
+Key recovery,The process by which a trusted third party in a key escrow system releases decryption keys. A legal process in certain countries where key holders are required to release decryption keys to government bodies (see Section 49 Notice).
+Marketplace,A Tor hidden service offering goods for sale (often illegal). 
+Data Protection Principles,A set of rules describing how personal data may be stored and used to remain compliant with the Data Protection Act 1998. Schedule I of the DPA lays down eight fundamental principles of data protection that must be followed by anyone or any organisation storing personal da ta in order to remain complaint with the DPA. 
+Node (Tor),Any computer participating in the Tor network. Nodes can be further subdivided depending on their role in the network. 
+Error-based SQLi (SQLi),A form of hack using error messages generated by SQL databases to learn more about a database. Error-based SQLi is often performed as a first stage of an attack on a database to expose potential vulnerabilities that may be exploited using other techniques. 
+.onion address (Tor),"The location of a hidden service accessed through the Tor network. The addresses are always 16 characters long and are derived by hashing the unique public key of the server hosting the hidden service. Since .onion addresses cannot be converted into IP addresses, they cannot be browsed using a conventional web browser. "
+Fair processing code,"A set of rules laid out in the first principle of the Data Protection Act 1998 explaining how personal data can be acquired, processed and stored in a manner that is fair to the person whose data is being processed, and that is consistent with the law. "
+Onion (Tor),A form of ciphertext produced by repeatedly re-encrypting data using a series of keys. The plaintext is recovered by decrypting the data in the reverse order to which encryption was originally applied. Onions are used to transmit data across the Tor network.  
+General Data Protection Regulation (GDPR),An EU regulation standardising data protection within the Union and which replaces national data protection laws. GDPR entered into effect in April 2018.  
+Information Commissioner's Office (ICO),A non-departmental government organisation created by the Data Protection Act (1998) to oversee the operation of the DPA as well as other pieces of legislation including the Freedom of Information Act (2000). A key role of the ICO is adjudicating on possible breaches of the DPA and issuing penalties for non-compliance. 
+Personal data,Defined in the Data Protection Act (1998) as any data relating to a living person which can be used to identify that individual. 
+Onion routing (Tor),"A technique for anonymous communication over the Tor network. Data is hidden within layers of encryption, analogous to layers of anonion. Individual nodes on the network remove and apply encryption allowing data to be routed to its destination, but always protected against eavesdroppers. "
+Relay node (Tor),A node in a Tor circuit responsible for passing encrypted data to another node.  
+Query,"A command used to access, create, modify or delete data inside a database. Queries are written in specialised query languages. "
+Pseudonymisation,"Any process which converts identifiable information into pseudonyms so that personal information is obscured from unauthorised access, but which can be restored when needed. Widely used where personal data is exchanged between organisations. "
+Query language,A specialised computer language for requesting information from a database. The most common query language is SQL. 
+Regulation of Investigatory Powers Act 2000 (RIPA),"An Act of Parliament regulating the ability of public bodies to perform surveillance and investigations. Amongst other powers, RIPA regulates the interception of communications which includes government access to encryption keys (see Section 49 Notice). "
+Query string,"A part of a web-site URL that does not refer to the location of a page, but is instead used to transmit data, such as that from an on-screen form, to a server for processing. A query string follows a question mark symbol (?) and consists of one or more parameters and their values. If multiple parameters are contained in a query string, they are separated by ampersands (&)."
+Sanitising queries,A process in which a server script checks database queries for potentially dangerous commands before they are processed by the database application itself. This is done to prevent SQLi attacks on the database. 
+Statutory Authority (SA),"An authority responsible for enforcing aspects of GDPR. Every EU member state must have a single SA. In the UK, the SA will assume the role currently held by the Information Commissioner's Office."
+Structured Query Language (SQL),"The most widespread of all database query languages. SQL was originally developed by IBM, but is now an international standard supported by most large database applications. "
+Section 49 Notice (RIPA),A notice issued by a UK government agency as part of an investigation demanding access to encryption keys or to decrypted data. 
+SQL Injection Attack (SQLi),"A collection of methods for attacking databases using SQL queries to extract, modify or delete data. "
+Skipjack,"An 80-bit symmetric encryption algorithm developed by the NSA for the Clipper system. Following the discovery of serious flaws within Skipjack, the algorithm is no longer considered secure. "
+Border Gateway Protocol (BGP),"A networking protocol designed to allow traffic to move across the internet. Since the internet is made up of a large number of autonomous networks, BGP is required by edge routers in order to route data from one network to another. "
+Surface web,The part of the World-wide web capable of being indexed by search engines. 
+Tor,A network designed to preserve user privacy in which data is exchanged through multiple routers using onion routing. 
+Traffic analysis,"A collection of techniques for examining patterns in data passing over a network which can help determine its origin, destination and purpose even if the data is encrypted and cannot be read. Traffic analysis can be used to deanonymise users."
+Trusted third party (trusted third person), A mutually acceptable party which allows two other parties to perform a transaction. Trusted-third parties are entrusted with securely storing encryption keys by key escrow schemes.
+"Tumbler (mixer, mixing service) (Bitcoin)",An online service for further anonymising Bitcoin transactions. Individual transactions are broken into smaller amounts and mixed with random fragments of other transactions before being sent to the recipient. 
+Unit key (Clipper),A symmetric encryption key unique to each Clipper device. When a device was constructed a copy of its unit key would be held in a key escrow arrangement with the key divided between two government agencies. The unit key encrypted the session key used to encrypt a Clipper message. The resulting ciphertext was then further encrypted into a LEAF using the device's family key.
+Aggravated offence,A legal term for where circumstances increase the severity of an offence. Sections (2) and (3) of the Computer Misuse Act 1990 include aggravated offences where unauthorised access to a computer is used to commit a further crime (e.g. fraud or blackmail). 
+Blind injection (SQLi),A form of attack in which the attacker does not know the underlying structure of an SQL databases. Instead they issue commands making assumptions about the structure and contents of the database in the hope that they will work. (c.f. error-based SQLi) 
+Computer Misuse Act 1990 (CMA),"The most important British law regarding computer hacking. The CMA created three new offences of unauthorised access to a computer; unauthorised access with the intention of committing further offences; and, actions affecting the operation of a computer. "
+Data Protection Act 1998 (DPA),"The most important UK law concerned with protecting personal data. The DPA uses eight principles of data protection to provide good-practice on the acquisition, storage, use and destruction of personal data. The DPA is regulated by the Information Commissioner's Office. At the time of writing, the DPA is in the process of being replaced by new legislation incorporating the General Data Protection Regulation."
+ambient data (see latent data),the data in slack space.
+cluster,"an amount of memory on a disk drive that consists of a fixed number of sectors. Commonly a cluster contains 4 or 8 sectors. As a file is written to the disk, the file system allocates the appropriate whole number of clusters to store the file's data. "
+data carving,(also see file carving) a data recovery technique. It allows for users to recover data without file system allocation information by searching through raw sectors and identifying those belonging to a particular file type by specific known file signatures. 
+dead system imaging,the process of taking a disk image from a computer that is not running. 
+defrag,"(also called defragmentation) An operating system process for optimising the physical location of files on a disk. As a disk is used, files increasing stored in fragments that can be scattered over the surface of the disk; such fragmentation increases the length of time taken to read files. Defragmentation joins file fragments together so a file is stored in continuous memory. "
+defragmentation,"(also called defrag). An operating system process for optimising the physical location of files on a disk. As a disk is used, files increasing stored in fragments that can be scattered over the surface of the disk; such fragmentation increases the length of time taken to read files. Defragmentation joins file fragments together so a file is stored in continuous memory. "
+degaussing,The process of applying a strong magnetic field to a magnetic storage device in order to erase any information held on that device.
+digital fingerprint,a string of binary digits based on a hash code that uniquely identifies a data file (See also hash code).
+digital forensics,(also called forensic computing). A branch of forensic science that is concerned with obtaining legal evidence from computer systems. 
+disk image,"a single file containing the complete contents and structure of a storage device (such as a disk). Disk images are often used for distributing very large programs (especially on the Apple Macintosh), or used to replicate a disk for forensic purposes. "
+Enhanced Meta File (.EMF),a file used by the Windows operating system to store graphical information. It can be opened by MS Paint and many other applications.
+File Allocation Table (FAT),a table in a FAT32 file system that holds information about where a file is stored on a hard disk or in an SSD. 
+FAT32,a file system developed for Windows that is now mainly used by USB flash drives.
+file carving,(also see data carving) a data recovery search technique. It allows for users to recover data with no file system allocation information to be extracted by identifying clusters and sectors belonging to the file. File Carving searches through the raw sectors looking for specific desired file signatures. 
+file system,the method by which an operating system controls how data is stored on and retrieved from the hardware.
+forensic computing,(also called digital forensics). A branch of forensic science that is concerned with obtaining legal evidence from computer systems. 
+forensically sound,a term applied to forensic evidence that is that it is obtained in a rigorous way and so is likely to be acceptable to the courts. 
+formatting (a disk),the act of preparing a computer storage device for use by a file system. Any data previously held on the device is made unavailable to the operating system and the device appears empty. 
+fragmentation,an unwanted process in HDDs where computer files are split across a number of physical locations on a disk as the disk becomes full. Fragmentation slows down file access. 
+hard delete,"a delete operation where the memory address of a file is removed from the file system and the clusters it occupied are released to the operating system to be reallocated. Until the space is reallocated, the content of a file (or fragments of the content) might still be recoverable from unallocated or slack space. (Compare with soft delete). "
+hard disk,(also called HDD and hard disk drive) a data storage device used for storing and retrieving digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material.
+hard disk drive,(also called HDD and hard disk) a data storage device used for storing and retrieving digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material. 
+hash code,"(also called a hash) an identifier for a piece of information. Hashes are fixed-sized pieces of data generated from arbitrarily large files using mathematical processes. They are used to create digital fingerprints (as well as to authenticate data in many security applications, and to speed up access to very large databases). See also digital fingerprint. "
+HDD,(also called hard disk drive or hard disk) a data storage device used for storing and retrieving digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material.
+hex editor,"a piece of software that can be used to read and manipulate the fundamental binary data that constitutes a data file. It would be very difficult to read 0s and 1s, so it shows the contents of the disk, byte for byte, written in hexadecimal notation. "
+image mounter,a piece of software that enables the operating system to read and write data to an image of a disk.
+latent data (also called ambient data):,the data in slack space. 
+logical size (of a file),the size of the content of a file. (Compare with physical size). 
+live system imaging,the process of taking an image of the memory of a computer that is running. 
+magic number,a constant numerical or text value used as a signature to identify a file format.
+Master File Table (MFT),a table in a NTFS file system that holds information about where a file is stored on a HDD or SSD. 
+memory dump,(also called RAM dump) a process in which the content of the memory is displayed and/or stored.
+Metadata,"""Data about data"": information that accompanies a dataset but describes it rather than being part of it."
+munge,"an attempt to create a stronger, more secure password through character substitution. Purportedly from Modify Until Not Guessed Easily. "
+New Technology File System (NTFS),a file system commonly used in Windows computers.
+overwriting,"(also called wiping or shredding). The process of obscuring sensitive information that might remain on a disk before disposal. New data, usually just all zeros or all ones, but sometimes a random pattern of both, is written to every part of the disk. This is a time-consuming process, especially if multiple overwrites are used. "
+partition,"a section of a hard disk. When you format a hard disk, you can usually choose the number of partitions you want. Partitions are then seen as separate disks by the operating system. "
+physical size (of a file),"the size of the disk storage that is allocated to store a file, which will always be a whole number of clusters. (Compare with logical size). "
+RAM dump,(also called memory dump) a process in which the content of the memory is displayed and/or stored.
+recycle bin,a folder in a Windows operating system that holds information about deleted files (see also trash).
+rolodex,a type of physical desktop card index for storing data. 
+sector,the smallest physical storage unit on a hard disk.In modern file systems it is almost always defined to be 512 bytes in size. 
+shredding,"(also called overwriting and wiping).The process of obscuring sensitive information that might remain on a disk before disposal. New data, usually just all zeros or all ones, but sometimes a random pattern of both, is written to every part of the disk. This is a time-consuming process, especially if multiple overwrites are used."
+slack space,the unused space in a disk cluster. The difference between the physical size and the logical size of a file.
+soft delete,"a delete operation where the content of a file, and its metadata, are not physically removed from the disk, but rather this data is ""moved"" into the recycle bin or trash can, from which it can be restored to its original location if required. (Compare with hard delete). "
+solid state drive,(also called SSD). A storage device that uses integrated circuit assemblies as memory to store data persistently. (Compare with hard disk drive). 
+SSD,(also called solid state drive). A storage device that uses integrated circuit assemblies as memory to store data persistently. (Compare with hard disk drive).
+steganography,"hiding data within other data, for example an image, in such a way that it cannot be easily detected by someone who does not know it is there. "
+system log,"a file that contains events that are logged by the operating system, such as device changes, system changes, events, operations and more. "
+track,a circular path on the surface of a hard disk on which data is stored. 
+trash can,a folder in an Apple operating system and Linux that holds information about deleted files (see also recycle bin). 
+timestamp,the time of an event as recorded by a computer. 
+TRIM,control software that allows an operating system to inform a solid-state drive (SSD) which blocks of data are no longer considered in use and can be wiped internally. 
+unallocated space,the space ona hard drive that is available for the operating system to write to. 
+USB flash drive,a portable storage device that uses flash memory and is lightweight enough to attach to a keychain. 
+wear-levelling,"a technique for prolonging the service life of some kinds of erasable computer storage media, such as flash memory, which is used in solid-state drives (SSDs) and USB flash drives. It does so by ensuing that every time a file is modified it is rewritten to a different physical locations across the whole of the SSD, selected at random. "
+wiping,"(also called overwriting and shredding). The process of obscuring sensitive information that might remain on a disk before disposal. New data, usually just all zeros or all ones, but sometimes a random pattern of both, is written to every part of the disk. This is a time-consuming process, especially if multiple overwrites are used. "
+write blocker,a tool that permits read-only access to data storage devices and so removes the risk of changing and thereby compromising the integrity of the data. 
+dict / Python dictionary,"A python dictionary is a container object. It consists of key-value pairs. The notation for a dictionary is {key1: value1, key2: value2, ...}. "
+key-value pair,Key-value pairs key: value are the main ingredients of a Python dictionary.
+Interactive loop pattern,"This is a pattern that is 'interactive' because it relies on user input and it is a loop, because it allows a program to ask repeatedly for new input."
+Advanced Encryption Standard (AES),A symmetric encryption algorithm approved by the United States government in 2002 as a long-term replacement for DES. AES can use keys of up to 256-bits and is much more secure than both DES and Triple DES. 
+Asymmetric cryptography (public key cryptography),A subset of cryptography where encryption and decryption are each performed by different keys. 
+Bitcoin,"A cryptocurrency invented by Satoshi Nakamoto in 2009 using strong cryptography, hashing and a distributed ledger to guarantee secure payments. "
+Block,A permanent record of transactions conducted in the Bitcoin system. An individual block has a unique number and contains a reference to the preceding block as well as a list of transactions and the value for the nonce that allowed the block to be authenticated. Blocks are joined into a record known as a blockchain. 
+Blockchain,"A distributed ledger of transactions composed of individual blocks. The blockchain was invented for the Bitcoin system, but its principles are now used in other applications where a complete, robust list of transactions is required. "
+Brute force attack (encryption),The process of finding a valid key by exhaustively testing all possible key values. 
