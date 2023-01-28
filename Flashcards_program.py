@@ -19,7 +19,7 @@ def file_to_dictionary(filename):
         dictionary[row[0]] = row[1]
     return dictionary
 
-glossary = file_to_dictionary('TM112_Glossary.txt')
+glossary = file_to_dictionary('Glossary.txt')
 
 
 
